@@ -1,7 +1,7 @@
 # TheStrongestUI Library
 
-A complete Roblox UI framework.
-The Best and Strongest.
+A complete Roblox UI framework.          
+The Best and Strongest.          
 Designed to be easy-to-use, customizable, and mobile-friendly.
 
 ---
